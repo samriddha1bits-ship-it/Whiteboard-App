@@ -37,6 +37,10 @@ whiteboard_az-main/
 │   ├── src/
 │   └── public/
 ```
+## 🌐 Demo
+
+A reference demo of the frontend:
+https://whiteboard-tutorial-eight.vercel.app/
 ## 📌 Future Improvements
 
 - Multi-user rooms  
