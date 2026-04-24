@@ -19,7 +19,7 @@ A full-stack whiteboard application that enables users to draw and collaborate i
 **Frontend**
 - React.js
 - HTML5 Canvas
-- CSS / Tailwind
+- CSS 
 
 **Backend**
 - Node.js
